@@ -14,11 +14,6 @@
     font-family: Arial, sans-serif;
   }
 
-  body {
-    background-color: #f5f5f5;
-    color: #333;
-  }
-
   .navbar {
     display: flex;
     justify-content: space-between;
