@@ -1,5 +1,5 @@
 <script>
-import { items } from '/src/lib/items.js';
+import { items } from '$lib/items.js';
 </script>
   <style>
     .header {
