@@ -2,13 +2,6 @@
 import { items } from '/src/lib/items.js';
 </script>
   <style>
-    body {
-      font-family: 'Poppins', sans-serif;
-      margin: 0;
-      padding: 0;
-      background: #fdfdfd;
-      color: #333;
-    }
     .header {
       text-align: center;
       padding: 60px 20px;
